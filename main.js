@@ -3,7 +3,7 @@ let myNumber = 42;
 let myBoolean = true;
 let myNull = null;
 let myUndefined;
-let myObject = { name: "Alice", age: 30 };
+let myObject = { name: "Prudence", age: 20 };
 let mySymbol = Symbol("unique");
 
 console.log(myString);
